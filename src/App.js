@@ -1,10 +1,16 @@
-import "./styles.css";
 
-export default function App() {
+import Navbar from "./Navbar";
+import Home from "./Home";
+
+const App = () => {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <Navbar />
+      <div className="content">
+        <Home />
+      </div>
     </div>
   );
-}
+};
+
+export default App;
