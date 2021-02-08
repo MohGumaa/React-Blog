@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "Blog content Body Post One",
+      "author": "Mohamed",
+      "id": 1
+    },
+    {
+      "title": "Post Tow",
+      "body": "Blog content Body Post Two",
+      "author": "Hero",
+      "id": 2
+    },
+    {
+      "title": "Post Three",
+      "body": "Blog content Body Post Three",
+      "author": "Hero",
+      "id": 3
+    }
+  ]
+}
