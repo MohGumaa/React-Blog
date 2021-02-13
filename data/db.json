@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "First Blog",
+            "body": "First Blog Post Content",
+            "author": "John",
+            "id": 1
+        },
+        {
+            "title": "Second Blog",
+            "body": "Second Blog Post Content",
+            "author": "Adam",
+            "id": 2
+        },
+    ]
+}
